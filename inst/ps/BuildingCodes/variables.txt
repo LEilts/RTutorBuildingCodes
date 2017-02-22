@@ -1,0 +1,24 @@
+orgvar | var | descr
+
+elec | elec | (monthly) electricity consumption in kWh
+gas | gas | (monthly) natural gas consumption in therms
+effectiveyearbuilt | EYB | effective year built, i.e. the year in which the construction of a house has been completed  
+squarefeet | sqfeet | size of a residence, measured in square feet  
+baths | baths | the number of bathrooms of a residence 
+beds | beds | the number of bedrooms of a residence
+stories | stories | the number of stories of a residence
+centralair | centralair | dummy variable, 1 if the house has a central air-conditioning
+shingled | shingled | dummy variable, 1 if the house has a shingled roof 
+year | year | billing year 
+month | month | billing month 
+CDD | CDD | Average cooling degree days (ACDD)
+HDD | HDD | Average heating degree days (AHDD)
+home_id | home_id | identification number of a residence
+zip | zip | zip code of the residence
+x2001code | code_change | indicator variable, 1 if the residence was built after the code change
+logft | logfeet | size of a residence, the column sqfeet logarithmized 
+CodeCDD | CodeCDD | interacted weather variable, i.e. interaction between code_change and CDD
+CodeHDD | CodeHDD | interacted weather variable, i.e. interaction between code_change and HDD
+monthyear | monthyear | month and year of billing record
+
+ 

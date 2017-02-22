@@ -1,0 +1,12 @@
+Package: RTutorBuildingCodes
+Type: Package
+Title: RTutor Effects of Building Codes on Energy Consumption
+Version: 0.1
+Date: 2017-12-02
+Author: Lisa Eilts
+Maintainer: Lisa Eilts <lisa.eilts@uni-ulm.de>
+Description: RTutor problem set BuildingCodes
+License: 
+	Problem set content: Creative Commons (CC BY-SA)
+	Package code: GPL >= 2.0
+Depends: RTutor, foreign, dplyr, ggplot2, tidyr, gridExtra, scales, lfe, texreg
