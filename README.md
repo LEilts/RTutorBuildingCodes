@@ -1,9 +1,9 @@
 This package constitutes an interactive R problem set based on the RTutor package (https://github.com/skranz/RTutor). 
 
-Grant D. Jacobsen and Matthew J. Kotchen evaluate in their paper "ARE BUILDING CODES EFFECTIVE AT SAVING ENERGY? EVIDENCE FROM RESIDENTIAL BILLING DATA IN FLORIDA" (2010) the actual effects of building codes on residential energy consumption. The main finding is that the tightening of the building code leads to a 4 percent and 6 percent reduction of electricity and natural gas consumption, respectively.  
-In this problem set you will reproduce the main findings, practice R programming and learn about econometric methods.
+Grant D. Jacobsen and Matthew J. Kotchen evaluate in their paper "ARE BUILDING CODES EFFECTIVE AT SAVING ENERGY? EVIDENCE FROM RESIDENTIAL BILLING DATA IN FLORIDA" (2013) the actual effects of building codes on residential energy consumption. Their main finding is that a tightening of the building energy code in the year 2002 is associated with a 4 percent and 6 percent reduction in electricity and natural gas consumption of residences in Gainesville, respectively.  
+In this problem set you will reproduce the main findings, practice in R programming and learn about some econometric methods.
 
-You can download the article from the following page: http://www.nber.org/papers/w16194.
+You can download the article from the following page: http://www.mitpressjournals.org/doi/abs/10.1162/REST_a_00243#.WO3sjvnyjIU.
 
 ## 1. Installation
 
